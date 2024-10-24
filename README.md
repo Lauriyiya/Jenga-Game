@@ -1,2 +1,2 @@
 # Jenga-Game
-Laura Climent Aumente
+Trabajo realizado por Laura Climent Aumente
